@@ -1,2 +1,2 @@
 language = "bash"
-run = "python CodeUp/6002.py"
+run = "python CodeUp/1main.py"
