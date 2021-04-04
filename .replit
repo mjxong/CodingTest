@@ -1,2 +1,3 @@
 language = "bash"
 run = "python CodeUp/1main.py"
+# run = "python CodeUp/1practice.py"
